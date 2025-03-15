@@ -8,7 +8,6 @@ management:
       exposure:
         include:
         - '*'
-
 greeting-service:
   greeting: "Ciao"
-  default-value: "Mondo!"
+  default-value: "Mondo!!!"
