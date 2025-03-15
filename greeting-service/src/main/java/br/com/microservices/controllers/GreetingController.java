@@ -31,4 +31,5 @@ public class GreetingController {
 					String.format(template, configuration.getGreeting(), name)
 				);
 	}
+	
 }

@@ -1,7 +1,6 @@
 package br.com.microservices.models;
 
 public class Greeting {
-	
 	private final long id;
 	private final String content;
 	
