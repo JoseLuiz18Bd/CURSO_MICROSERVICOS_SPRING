@@ -21,10 +21,3 @@ spring:
     schemas: cambio-service
     user: joselui3
     password: 840318Bd@
-#  flyway:
-#    url: jdbc:mysql://localhost:3306/cambio-service
-#    user: joselui3
-#    password: 840318Bd@
-#    baseline-on-migrate: true
-#    connect-retries: 10
-#    database: mysql
